@@ -1,0 +1,54 @@
+# Laravel
+/bootstrap/compiled.php
+/vendor
+
+# Configuration
+/config/local
+/config/staging
+/config/production
+
+# Storage
+/storage
+
+# Basset development collections
+/public/assets/compiled/public
+/public/assets/compiled/admin
+
+# Composer
+composer.phar
+
+# OS
+.DS_Store
+.idea/
+
+# Packages
+_ide_helpers.php
+
+# Foundation (for admin module)
+/public/assets/admin/bower_components
+/public/assets/admin/node_modules
+/public/assets/admin/css
+/public/assets/*
+/public/apidocs
+
+# Foundation (for site module)
+/public/assets/site/bower_components
+
+# Uploads folder
+/public/uploads/*
+
+# Generated icons
+/resources/assets/src/frontend/styles/framework/icons/icons.styl
+
+
+_ide_helper.php
+
+.env
+
+.vagrant
+
+npm-debug.log
+node_modules
+bower_components
+public/assets/
+/nbproject/private/

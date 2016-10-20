@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: Redeye
+        psr4_prefix: Redeye
+        src_path: app
